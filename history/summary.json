@@ -5,19 +5,17 @@
     "icon": "https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "sssh-singapore-1",
     "status": "up",
-    "uptime": "1.79%",
-    "uptimeDay": "1.79%",
-    "uptimeWeek": "1.79%",
-    "uptimeMonth": "1.79%",
-    "uptimeYear": "1.79%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 390,
     "timeDay": 390,
     "timeWeek": 390,
     "timeMonth": 390,
     "timeYear": 390,
-    "dailyMinutesDown": {
-      "2022-11-20": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SSH Singapore 2",
@@ -25,18 +23,18 @@
     "icon": "https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-singapore-2",
     "status": "down",
-    "uptime": "0.11%",
-    "uptimeDay": "0.11%",
-    "uptimeWeek": "0.11%",
-    "uptimeMonth": "0.11%",
-    "uptimeYear": "0.11%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-20": 11
+      "2022-11-20": 12
     }
   },
   {
@@ -45,11 +43,11 @@
     "icon": "https://ppob.hidessh.com/file/images/300b794c4696b5b551fe31036db7785f.png",
     "slug": "ssh-singapore-3",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
