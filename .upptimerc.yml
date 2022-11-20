@@ -8,31 +8,36 @@ sites:
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 200
+        - 400
+        - 500
      - name: SSH Singapore 2
        url: hhttp://sg2.hidesvr.xyz:3128
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 200
+        - 400
+        - 500
      - name: SSH Singapore 3
        url: http://sg3.hidesvr.xyz:3128
        icon: https://ppob.hidessh.com/file/images/300b794c4696b5b551fe31036db7785f.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 200
+        - 400
+        - 500
      - name: SSH Singapore 4
        url: http://sg4.hidesvr.xyz:3128
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 200  
+        - 400
+        - 500  
      - name: SSH Singapore 5
        url: http://sg5.hidesvr.xyz:3128
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
-        - 200  
+        - 400
+        - 500  
      - name: Kasir
        url: https://pos.hidessh.com
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
