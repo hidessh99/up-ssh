@@ -4,19 +4,19 @@
     "url": "http://sg1.hidesvr.xyz:3128",
     "icon": "https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "sssh-singapore-1",
-    "status": "down",
-    "uptime": "7.61%",
-    "uptimeDay": "7.61%",
-    "uptimeWeek": "7.61%",
-    "uptimeMonth": "7.61%",
-    "uptimeYear": "7.61%",
-    "time": 350,
-    "timeDay": 350,
-    "timeWeek": 350,
-    "timeMonth": 350,
-    "timeYear": 350,
+    "status": "up",
+    "uptime": "1.79%",
+    "uptimeDay": "1.79%",
+    "uptimeWeek": "1.79%",
+    "uptimeMonth": "1.79%",
+    "uptimeYear": "1.79%",
+    "time": 390,
+    "timeDay": 390,
+    "timeWeek": 390,
+    "timeMonth": 390,
+    "timeYear": 390,
     "dailyMinutesDown": {
-      "2022-11-20": 0
+      "2022-11-20": 11
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-singapore-2",
     "status": "down",
-    "uptime": "2.64%",
-    "uptimeDay": "2.64%",
-    "uptimeWeek": "2.64%",
-    "uptimeMonth": "2.64%",
-    "uptimeYear": "2.64%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-20": 0
+      "2022-11-20": 11
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://ppob.hidessh.com/file/images/300b794c4696b5b551fe31036db7785f.png",
     "slug": "ssh-singapore-3",
     "status": "down",
-    "uptime": "5.04%",
-    "uptimeDay": "5.04%",
-    "uptimeWeek": "5.04%",
-    "uptimeMonth": "5.04%",
-    "uptimeYear": "5.04%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-20": 0
+      "2022-11-20": 11
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-singapore-4",
     "status": "down",
-    "uptime": "7.74%",
-    "uptimeDay": "7.74%",
-    "uptimeWeek": "7.74%",
-    "uptimeMonth": "7.74%",
-    "uptimeYear": "7.74%",
+    "uptime": "0.32%",
+    "uptimeDay": "0.32%",
+    "uptimeWeek": "0.32%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-20": 0
+      "2022-11-20": 11
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-singapore-5",
     "status": "down",
-    "uptime": "11.44%",
-    "uptimeDay": "11.44%",
-    "uptimeWeek": "11.44%",
-    "uptimeMonth": "11.44%",
-    "uptimeYear": "11.44%",
+    "uptime": "0.24%",
+    "uptimeDay": "0.24%",
+    "uptimeWeek": "0.24%",
+    "uptimeMonth": "0.24%",
+    "uptimeYear": "0.24%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-20": 0
+      "2022-11-20": 11
     }
   },
   {
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1187,
-    "timeDay": 1187,
-    "timeWeek": 1187,
-    "timeMonth": 1187,
-    "timeYear": 1187,
+    "time": 1178,
+    "timeDay": 1178,
+    "timeWeek": 1178,
+    "timeMonth": 1178,
+    "timeYear": 1178,
     "dailyMinutesDown": {}
   },
   {
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1134,
-    "timeDay": 1134,
-    "timeWeek": 1134,
-    "timeMonth": 1134,
-    "timeYear": 1134,
+    "time": 1218,
+    "timeDay": 1218,
+    "timeWeek": 1218,
+    "timeMonth": 1218,
+    "timeYear": 1218,
     "dailyMinutesDown": {}
   },
   {
