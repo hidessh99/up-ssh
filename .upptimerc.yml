@@ -17,15 +17,15 @@ sites:
        expectedStatusCodes:
         - 400
         - 500
-     - name: SSH Singapore 3
-       url: http://sg3.hidesvr.xyz:3128
+     - name: SSH Indonesia 1
+       url: http://id.hidesvr.xyz:3128
        icon: https://ppob.hidessh.com/file/images/300b794c4696b5b551fe31036db7785f.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500
-     - name: SSH Singapore 4
-       url: http://sg4.hidesvr.xyz:3128
+     - name: SSH Indonesia 2
+       url: http://id2.hidesvr.xyz:3128
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
@@ -38,18 +38,6 @@ sites:
        expectedStatusCodes:
         - 400
         - 500  
-     - name: Kasir
-       url: https://pos.hidessh.com
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200      
-     - name: Panel HideSSH
-       url: https://panel.hidessh.com
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200  
      - name: NGINX
        url: https://web.sshcdn.com
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
@@ -59,7 +47,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: ping.xingssh.com
+  cname: ssh.hidessh.com
   # baseUrl: /your-repo-name
   favicon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
   logoUrl: https://hidessh.com/storage/site/SkEPvj4EgttwJ63kDq7do5y5xsdoE4q9Cq8QHHsm.png
