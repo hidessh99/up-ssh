@@ -1,0 +1,88 @@
+# Change these first
+owner: 4rukadi # Your GitHub organization or username, where this repository lives
+repo:  hidessh-web # The name of this repository
+
+sites:
+     - name: HideSSH Website
+       url: https://hidessh.com/
+       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: Blog HideSSH    
+       url: https://hidessh.com/blog
+       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: PPOB 
+       url: https://ppob.hidessh.com
+       icon: https://ppob.hidessh.com/file/images/300b794c4696b5b551fe31036db7785f.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200
+     - name: Shorlink 
+       url: https://s.hidessh.com
+       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200  
+     - name: IP Address
+       url: https://ip.hidessh.com
+       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200  
+     - name: Kasir
+       url: https://pos.hidessh.com
+       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200      
+     - name: Panel HideSSH
+       url: https://panel.hidessh.com
+       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200  
+     - name: NGINX
+       url: https://web.sshcdn.com
+       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       maxResponseTime: 5000
+       expectedStatusCodes:
+        - 200      
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: ping.hidessh.com
+  # baseUrl: /your-repo-name
+  favicon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+  logoUrl: https://hidessh.com/storage/site/SkEPvj4EgttwJ63kDq7do5y5xsdoE4q9Cq8QHHsm.png
+  name: HideSSH - Server Status
+  introTitle: "Welcome to our **HideSSH** server status page. "
+  introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
+  navbar:
+    - title: HideSSH
+      href: https://hidessh.com/
+    - title: Blog
+      href: https://hidessh.com/blog/
+    - title: Telegram
+      href: https://t.me/hidessh
+  theme: light
+  
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: This page is [created]($REPO) @2022 by [HideSSH](hidessh.com), powered by [Upptime](https://upptime.js.org)  
+  
+  
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/10 * * * *"
