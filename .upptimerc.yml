@@ -3,7 +3,7 @@ owner: hidessh99 # Your GitHub organization or username, where this repository l
 repo:  up-ssh # The name of this repository
 
 sites:
-     - name: SSSH Singapore 1
+     - name: SSH Singapore 1
        url: http://sg1.hidesvr.xyz:3128
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
@@ -11,7 +11,7 @@ sites:
         - 400
         - 500
      - name: SSH Singapore 2
-       url: hhttp://sg2.hidesvr.xyz:3128
+       url: http://sg2.hidesvr.xyz:3128
        icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
