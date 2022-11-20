@@ -4,19 +4,19 @@
     "url": "http://sg1.hidesvr.xyz:3128",
     "icon": "https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-singapore-1",
-    "status": "down",
-    "uptime": "96.61%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "96.61%",
-    "uptimeMonth": "96.61%",
-    "uptimeYear": "96.61%",
-    "time": 357,
-    "timeDay": 357,
-    "timeWeek": 357,
-    "timeMonth": 357,
-    "timeYear": 357,
+    "status": "up",
+    "uptime": "82.94%",
+    "uptimeDay": "82.94%",
+    "uptimeWeek": "82.94%",
+    "uptimeMonth": "82.94%",
+    "uptimeYear": "82.94%",
+    "time": 404,
+    "timeDay": 404,
+    "timeWeek": 404,
+    "timeMonth": 404,
+    "timeYear": 404,
     "dailyMinutesDown": {
-      "2022-11-20": 0
+      "2022-11-20": 1
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-singapore-2",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-20": 18
+      "2022-11-20": 19
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-20": 18
+      "2022-11-20": 19
     }
   },
   {
@@ -64,26 +64,6 @@
     "url": "http://sg4.hidesvr.xyz:3128",
     "icon": "https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-singapore-4",
-    "status": "down",
-    "uptime": "0.22%",
-    "uptimeDay": "0.22%",
-    "uptimeWeek": "0.22%",
-    "uptimeMonth": "0.22%",
-    "uptimeYear": "0.22%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-11-20": 18
-    }
-  },
-  {
-    "name": "SSH Singapore 5",
-    "url": "http://sg5.hidesvr.xyz:3128",
-    "icon": "https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
-    "slug": "ssh-singapore-5",
     "status": "down",
     "uptime": "0.15%",
     "uptimeDay": "0.15%",
@@ -96,7 +76,27 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-20": 18
+      "2022-11-20": 19
+    }
+  },
+  {
+    "name": "SSH Singapore 5",
+    "url": "http://sg5.hidesvr.xyz:3128",
+    "icon": "https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
+    "slug": "ssh-singapore-5",
+    "status": "down",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-11-20": 19
     }
   },
   {
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1150,
-    "timeDay": 1150,
-    "timeWeek": 1150,
-    "timeMonth": 1150,
-    "timeYear": 1150,
+    "time": 1153,
+    "timeDay": 1153,
+    "timeWeek": 1153,
+    "timeMonth": 1153,
+    "timeYear": 1153,
     "dailyMinutesDown": {}
   },
   {
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1251,
-    "timeDay": 1251,
-    "timeWeek": 1251,
-    "timeMonth": 1251,
-    "timeYear": 1251,
+    "time": 1277,
+    "timeDay": 1277,
+    "timeWeek": 1277,
+    "timeMonth": 1277,
+    "timeYear": 1277,
     "dailyMinutesDown": {}
   },
   {
@@ -146,11 +146,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1165,
-    "timeDay": 1165,
-    "timeWeek": 1165,
-    "timeMonth": 1165,
-    "timeYear": 1165,
+    "time": 1198,
+    "timeDay": 1198,
+    "timeWeek": 1198,
+    "timeMonth": 1198,
+    "timeYear": 1198,
     "dailyMinutesDown": {}
   }
 ]
