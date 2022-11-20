@@ -63,8 +63,8 @@ status-website:
   # baseUrl: /your-repo-name
   favicon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
   logoUrl: https://hidessh.com/storage/site/SkEPvj4EgttwJ63kDq7do5y5xsdoE4q9Cq8QHHsm.png
-  name: HideSSH - Server Status
-  introTitle: "Welcome to our **HideSSH** server status page. "
+  name: HideSSH - Server Status SSH
+  introTitle: "Welcome to our **HideSSH** server SSH status page. "
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
   navbar:
     - title: HideSSH
@@ -90,4 +90,4 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/10 * * * *"
+  uptime: "*/5 * * * *"
