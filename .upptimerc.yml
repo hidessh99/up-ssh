@@ -5,42 +5,42 @@ repo:  up-ssh # The name of this repository
 sites:
      - name: SSH Singapore 1
        url: http://sg1.hidesvr.xyz:3128
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500
      - name: SSH Singapore 2
        url: http://sg2.hidesvr.xyz:3128
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500
      - name: SSH Indonesia 1
        url: http://id.hidesvr.xyz:3128
-       icon: https://ppob.hidessh.com/file/images/300b794c4696b5b551fe31036db7785f.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500
      - name: SSH Indonesia 2
        url: http://id2.hidesvr.xyz:3128
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500  
      - name: SSH Singapore 5
        url: http://sg5.hidesvr.xyz:3128
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 400
         - 500  
      - name: NGINX
        url: https://web.sshcdn.com
-       icon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
        maxResponseTime: 5000
        expectedStatusCodes:
         - 200      
@@ -49,8 +49,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: ssh.hidessh.com
   # baseUrl: /your-repo-name
-  favicon: https://hidessh.com/storage/site/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
-  logoUrl: https://hidessh.com/storage/site/SkEPvj4EgttwJ63kDq7do5y5xsdoE4q9Cq8QHHsm.png
+  favicon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+  logoUrl: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
   name: HideSSH - Server Status SSH
   introTitle: "Welcome to our **HideSSH** server SSH status page. "
   introMessage: You can get updates on how our systems are doing. If there are interruptions to service, we will post a note here.
