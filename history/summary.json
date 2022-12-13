@@ -4,9 +4,9 @@
     "url": "http://sg1.hidesvr.xyz:3128",
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-singapore-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,25 +15,28 @@
     "timeWeek": 440,
     "timeMonth": 438,
     "timeYear": 438,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-13": 0
+    }
   },
   {
     "name": "SSH Singapore 2",
     "url": "http://sg2.hidesvr.xyz:3128",
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-singapore-2",
-    "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 424,
     "timeDay": 438,
     "timeWeek": 414,
     "timeMonth": 424,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2022-12-13": 0,
       "2022-11-20": 68
     }
   },
@@ -42,9 +45,9 @@
     "url": "http://id.hidesvr.xyz:3128",
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-indonesia-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,16 +56,18 @@
     "timeWeek": 420,
     "timeMonth": 438,
     "timeYear": 438,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-13": 0
+    }
   },
   {
     "name": "SSH Indonesia 2",
     "url": "http://id2.hidesvr.xyz:3128",
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-indonesia-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +76,9 @@
     "timeWeek": 411,
     "timeMonth": 434,
     "timeYear": 434,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-13": 0
+    }
   },
   {
     "name": "SSH Singapore 5",
@@ -90,7 +97,7 @@
     "timeMonth": 356,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2022-12-13": 473,
+      "2022-12-13": 1201,
       "2022-12-12": 1440,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
@@ -122,18 +129,17 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "nginx",
     "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "98.60%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.21%",
+    "uptime": "99.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.24%",
     "time": 1425,
-    "timeDay": 1609,
+    "timeDay": 1735,
     "timeWeek": 1474,
     "timeMonth": 1425,
     "timeYear": 1425,
     "dailyMinutesDown": {
-      "2022-12-13": 6,
       "2022-12-12": 21,
       "2022-12-11": 81,
       "2022-12-07": 33,
