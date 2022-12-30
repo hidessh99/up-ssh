@@ -38,6 +38,13 @@ sites:
     expectedStatusCodes:
       - 400
       - 500
+  - name: SSH India
+    url: http://in.hidesvr.xyz:3128
+    icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 400
+      - 500
   - name: NGINX
     url: https://web.sshcdn.com
     icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
