@@ -1,63 +1,65 @@
 # Change these first
 owner: hidessh99 # Your GitHub organization or username, where this repository lives
-repo:  up-ssh # The name of this repository
+repo: up-ssh # The name of this repository
 
 sites:
-     - name: SSH Singapore 1
-       url: http://sg1.hidesvr.xyz:3128
-       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500
-     - name: SSH Singapore 2
-       url: http://sg2.hidesvr.xyz:3128
-       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500
-     - name: SSH Indonesia 1
-       url: http://id.hidesvr.xyz:3128
-       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500
-     - name: SSH Indonesia 2
-       url: http://id2.hidesvr.xyz:3128
-       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500  
-     - name: SSH Singapore 5
-       url: http://sg5.hidesvr.xyz:3128
-       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500  
-      - name: SSH India
-       url: http://in.hidesvr.xyz:3128
-       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500 
-      - name: SSH Australia
-       url: http://au.hidesvr.xyz:3128
-       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 400
-        - 500   
-     - name: NGINX
-       url: https://web.sshcdn.com
-       icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
-       maxResponseTime: 5000
-       expectedStatusCodes:
-        - 200      
+  - name: SSH Singapore 1
+    url: http://sg1.hidesvr.xyz:3128
+    icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 400
+      - 500
+  - name: SSH Singapore 2
+    url: http://sg2.hidesvr.xyz:3128
+    icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 400
+      - 500
+  - name: SSH Indonesia 1
+    url: http://id.hidesvr.xyz:3128
+    icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 400
+      - 500
+  - name: SSH Indonesia 2
+    url: http://id2.hidesvr.xyz:3128
+    icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 400
+      - 500
+  - name: SSH Singapore 5
+    url: http://sg5.hidesvr.xyz:3128
+    icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 400
+      - 500
+
+  - name: SSH India
+    url: http://in.hidesvr.xyz:3128
+    icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 400
+      - 500
+
+  - name: SSH Australia
+    url: http://au.hidesvr.xyz:3128
+    icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 400
+      - 500
+  - name: NGINX
+    url: https://web.sshcdn.com
+    icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -76,13 +78,12 @@ status-website:
     - title: Contact
       href: https://t.me/hidessh
   theme: light
-  
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 i18n:
-  footer: This page is [created]($REPO) @2022 by [HideSSH](hidessh.com), powered by [Upptime](https://upptime.js.org)  
-  
-  
+  footer: This page is [created]($REPO) @2022 by [HideSSH](hidessh.com), powered by [Upptime](https://upptime.js.org)
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 workflowSchedule:
