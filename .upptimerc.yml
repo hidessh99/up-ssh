@@ -17,6 +17,20 @@ sites:
     expectedStatusCodes:
       - 400
       - 500
+  - name: SSH Singapore 3
+    url: http://sg3.hidesvr.xyz:3128
+    icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 400
+      - 500
+  - name: SSH Singapore 4
+    url: http://sg4.hidesvr.xyz:3128
+    icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 400
+      - 500    
   - name: SSH Indonesia 1
     url: http://id.hidesvr.xyz:3128
     icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
