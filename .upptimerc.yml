@@ -30,6 +30,20 @@ sites:
     maxResponseTime: 5000
     expectedStatusCodes:
       - 400
+      - 500
+  - name: SSH Malaysia 1
+    url: http://my.hidesvr.xyz:81
+    icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
+      - 500
+  - name: SSH Malaysia 1
+    url: http://my2.hidesvr.xyz:81
+    icon: https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
       - 500    
   - name: SSH Indonesia 1
     url: http://id.hidesvr.xyz:3128
