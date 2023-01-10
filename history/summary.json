@@ -6,7 +6,7 @@
     "slug": "ssh-singapore-1",
     "status": "up",
     "uptime": "95.87%",
-    "uptimeDay": "86.16%",
+    "uptimeDay": "86.17%",
     "uptimeWeek": "70.15%",
     "uptimeMonth": "93.09%",
     "uptimeYear": "95.87%",
@@ -30,7 +30,7 @@
     "slug": "ssh-singapore-2",
     "status": "up",
     "uptime": "95.80%",
-    "uptimeDay": "86.15%",
+    "uptimeDay": "86.17%",
     "uptimeWeek": "70.31%",
     "uptimeMonth": "93.12%",
     "uptimeYear": "95.80%",
@@ -54,7 +54,7 @@
     "slug": "ssh-singapore-3",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "90.38%",
+    "uptimeDay": "90.40%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -124,7 +124,7 @@
     "slug": "ssh-singapore-4",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "90.37%",
+    "uptimeDay": "90.40%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -282,7 +282,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-10": 14
+      "2023-01-10": 15
     }
   },
   {
@@ -293,7 +293,7 @@
     "status": "down",
     "uptime": "18.14%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "33.83%",
+    "uptimeWeek": "33.82%",
     "uptimeMonth": "28.45%",
     "uptimeYear": "18.14%",
     "time": 430,
@@ -302,7 +302,7 @@
     "timeMonth": 434,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2023-01-10": 540,
+      "2023-01-10": 541,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
