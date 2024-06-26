@@ -5,7 +5,7 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-singapore-1",
     "status": "down",
-    "uptime": "11.38%",
+    "uptime": "11.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 44,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -379,8 +380,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-singapore-2",
     "status": "down",
-    "uptime": "11.25%",
+    "uptime": "11.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 44,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -763,8 +764,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -777,14 +777,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.40%",
+    "uptimeYear": "0.12%",
     "time": 431,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 450,
+    "timeYear": 461,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 45,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -1147,8 +1148,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 744
+      "2023-06-28": 1440
     }
   },
   {
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 45,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -1531,8 +1532,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-malaysia-1",
     "status": "down",
-    "uptime": "33.35%",
+    "uptime": "33.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "2.93%",
-    "time": 1017,
+    "uptimeYear": "2.66%",
+    "time": 1022,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1299,
+    "timeYear": 1333,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 45,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -1916,18 +1917,19 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-malaysia-1",
     "status": "down",
-    "uptime": "33.35%",
+    "uptime": "33.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "2.93%",
-    "time": 1017,
+    "uptimeYear": "2.66%",
+    "time": 1022,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1299,
+    "timeYear": 1333,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 45,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -2291,18 +2293,19 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-indonesia-1",
     "status": "down",
-    "uptime": "30.46%",
+    "uptime": "30.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.74%",
-    "time": 521,
+    "uptimeYear": "0.46%",
+    "time": 522,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 496,
+    "timeYear": 492,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 45,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -2665,8 +2668,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 399,
-      "2023-06-27": 19
+      "2023-06-28": 399
     }
   },
   {
@@ -2675,18 +2677,19 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-indonesia-2",
     "status": "down",
-    "uptime": "15.94%",
+    "uptime": "15.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 465,
+    "time": 481,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 45,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -3049,8 +3052,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -3059,7 +3061,7 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-indonesia-3",
     "status": "down",
-    "uptime": "17.02%",
+    "uptime": "16.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3070,7 +3072,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 45,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -3433,8 +3436,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -3443,7 +3445,7 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-singapore-5",
     "status": "down",
-    "uptime": "17.13%",
+    "uptime": "17.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3454,7 +3456,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 45,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -3817,8 +3820,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -3827,7 +3829,7 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-india",
     "status": "down",
-    "uptime": "19.01%",
+    "uptime": "18.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3838,7 +3840,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 45,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -4201,8 +4204,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -4211,7 +4213,7 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-australia",
     "status": "down",
-    "uptime": "19.00%",
+    "uptime": "18.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -4222,7 +4224,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 45,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -4585,8 +4588,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -4595,7 +4597,7 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-canada",
     "status": "down",
-    "uptime": "3.72%",
+    "uptime": "3.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -4606,7 +4608,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 45,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -4969,8 +4972,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -4979,7 +4981,7 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "ssh-us",
     "status": "down",
-    "uptime": "3.71%",
+    "uptime": "3.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -4990,7 +4992,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 45,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -5353,8 +5356,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   },
   {
@@ -5363,18 +5365,19 @@
     "icon": "https://ej538573utp.exactdn.com/blog/wp-content/uploads/2022/11/hpc1FS8JlOINe59NamnPtIXgkWXxG1039sKp8uGG.png",
     "slug": "nginx",
     "status": "down",
-    "uptime": "35.96%",
+    "uptime": "35.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2725,
+    "time": 2749,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-25": 45,
+      "2024-06-26": 45,
+      "2024-06-25": 1440,
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
@@ -5737,8 +5740,7 @@
       "2023-07-01": 1440,
       "2023-06-30": 1440,
       "2023-06-29": 1440,
-      "2023-06-28": 1440,
-      "2023-06-27": 1440
+      "2023-06-28": 1440
     }
   }
 ]
